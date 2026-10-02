@@ -4,5 +4,6 @@
 
 # Hi, I'm Omkar Shelke 👋
 
-Engineering student interested in Data Analytics,
-Python development, and practical AI applications.
+I'm a final-year engineering student focused on building practical solutions with **data, Python, and AI**.
+
+I enjoy turning real-world problems into useful applications, dashboards, and data-driven solutions.
